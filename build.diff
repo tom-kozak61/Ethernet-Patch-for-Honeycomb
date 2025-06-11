@@ -1,0 +1,12 @@
+diff --git a/core/pathmap.mk b/core/pathmap.mk
+index 428594f..98e9df1 100644
+--- a/core/pathmap.mk
++++ b/core/pathmap.mk
+@@ -86,6 +86,7 @@ FRAMEWORKS_BASE_SUBDIRS := \
+ 	    opengl \
+ 	    sax \
+ 	    telephony \
++	    ethernet \
+ 	    wifi \
+ 	    vpn \
+ 	    keystore \
